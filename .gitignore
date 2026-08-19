@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.db
+uploads/students/*
+!uploads/students/.gitkeep
+.DS_Store
+*.log
